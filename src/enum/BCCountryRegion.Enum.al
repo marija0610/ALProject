@@ -21,4 +21,9 @@ enum 50130 "BCCountry/Region"
     {
         Caption = 'Francuska';
     }
+
+    value(4; JA)
+    {
+        Caption = 'Japan';
+    }
 }
