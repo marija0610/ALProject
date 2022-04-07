@@ -38,5 +38,4 @@ enum 50130 "BCCountry/Region"
     {
         Caption = 'Austrija';
     }
-    //Zemlje
 }
