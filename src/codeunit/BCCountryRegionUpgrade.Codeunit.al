@@ -30,6 +30,8 @@ codeunit 50133 "BCCountry/Region Upgrade"
             case BCCountryRegionSetUp.CountryCode of
                 'SI':
                     BCCountryRegionSetUp."CountryName Enum" := BCCountryRegionSetUp."CountryName Enum"::CA;
+                'JA':
+                    BCCountryRegionSetUp."CountryName Enum" := BCCountryRegionSetUp."CountryName Enum"::JA;
                 'RS':
                     BCCountryRegionSetUp."CountryName Enum" := BCCountryRegionSetUp."CountryName Enum"::RS;
                 'FR':
