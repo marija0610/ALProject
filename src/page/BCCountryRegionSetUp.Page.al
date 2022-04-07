@@ -8,6 +8,8 @@ page 50130 "BCCountry/Region SetUp"
     InsertAllowed = false;
     DeleteAllowed = false;
 
+    //komentar na pageu
+
     layout
     {
         area(Content)
