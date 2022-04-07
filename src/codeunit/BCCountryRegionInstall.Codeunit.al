@@ -39,4 +39,5 @@ codeunit 50132 "BCCountry/Region Install"
     end;
 
     //moja izmena
+    //jos jedna
 }
