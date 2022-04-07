@@ -45,4 +45,6 @@ table 50130 "BCCountry/Region SetUp"
             Clustered = true;
         }
     }
+
+    //komentar u tablici
 }
