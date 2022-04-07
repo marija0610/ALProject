@@ -17,7 +17,7 @@ codeunit 50132 "BCCountry/Region Install"
 
         UpgradeTag.SetAllUpgradeTags();
     end;
-
+    //nova promena test
     procedure HandleFreshInstall();
     var
         BCCountryRegionSetUp: Record "BCCountry/Region SetUp";
