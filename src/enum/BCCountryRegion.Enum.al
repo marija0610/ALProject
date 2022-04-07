@@ -1,4 +1,4 @@
-enum 50130 "BC BCCountry/Region"
+enum 50130 "BCCountry/Region"
 {
     Extensible = true;
 
@@ -33,4 +33,6 @@ enum 50130 "BC BCCountry/Region"
     {
         Caption = 'Kanada';
     }
+
+    //Zemlje
 }

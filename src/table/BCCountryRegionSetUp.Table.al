@@ -32,7 +32,7 @@ table 50130 "BCCountry/Region SetUp"
             Editable = false;
         }
 
-        field(4; "CountryName Enum"; Enum "BC BCCountry/Region")
+        field(4; "CountryName Enum"; Enum "BCCountry/Region")
         {
             DataClassification = SystemMetadata;
         }
