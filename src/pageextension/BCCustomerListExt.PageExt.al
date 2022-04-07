@@ -5,6 +5,7 @@
 pageextension 50130 "BCCustomerListExt" extends "Customer List"
 {
     //bojanajapan
+    //andjelafrancuska
     actions
     {
         addlast("&Customer")
