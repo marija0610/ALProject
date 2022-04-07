@@ -22,6 +22,7 @@ enum 50130 "BCCountry/Region"
         Caption = 'Francuska';
     }
 
+    //Bojanina zemlja
     value(4; JA)
     {
         Caption = 'Japan';
